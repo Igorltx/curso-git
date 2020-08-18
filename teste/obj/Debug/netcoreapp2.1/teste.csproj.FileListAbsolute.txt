@@ -1,0 +1,11 @@
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\bin\Debug\netcoreapp2.1\teste.deps.json
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\bin\Debug\netcoreapp2.1\teste.runtimeconfig.json
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\bin\Debug\netcoreapp2.1\teste.runtimeconfig.dev.json
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\bin\Debug\netcoreapp2.1\teste.dll
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\bin\Debug\netcoreapp2.1\teste.pdb
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.csprojAssemblyReference.cache
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.AssemblyInfoInputs.cache
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.AssemblyInfo.cs
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.dll
+C:\Users\Família\Documents\Curso C#\ws-vs2019\teste\teste\obj\Debug\netcoreapp2.1\teste.pdb
